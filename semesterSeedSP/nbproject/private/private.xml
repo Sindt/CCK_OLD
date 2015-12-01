@@ -4,11 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="a"/>
         <group>
-            <file>file:/C:/DELETE/a/sp/semesterSeedFall2015/semesterSeedSP/src/java/entity/User.java</file>
-            <file>file:/C:/DELETE/a/sp/semesterSeedFall2015/semesterSeedSP/src/java/entity/Role.java</file>
-            <file>file:/C:/DELETE/a/sp/semesterSeedFall2015/semesterSeedSP/src/java/deploy/DeploymentConfiguration.java</file>
-            <file>file:/C:/DELETE/a/sp/semesterSeedFall2015/semesterSeedSP/web/app/view4/view4.html</file>
-            <file>file:/C:/DELETE/a/sp/semesterSeedFall2015/semesterSeedSP/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Kasper/Desktop/Java%20programmering/CCK/semesterSeedSP/src/java/rest/User.java</file>
+            <file>file:/C:/Users/Kasper/Desktop/Java%20programmering/CCK/semesterSeedSP/test/test/BackendTest.java</file>
+            <file>file:/C:/Users/Kasper/Desktop/Java%20programmering/CCK/semesterSeedSP/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Kasper/Desktop/Java%20programmering/CCK/semesterSeedSP/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Kasper/Desktop/Java%20programmering/CCK/semesterSeedSP/web/index.html</file>
+            <file>file:/C:/Users/Kasper/Desktop/Java%20programmering/CCK/semesterSeedSP/src/java/deploy/DeploymentConfiguration.java</file>
         </group>
     </open-files>
 </project-private>
